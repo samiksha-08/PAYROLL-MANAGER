@@ -22,19 +22,14 @@ public class Salary {
 		// end-user-code
 	}
 
-	/**
-	 * @param theId  the id to set
-	 * @generated  "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
-	 */
+	
 	public void setId(Integer theId) {
 		// begin-user-code
 		id = theId;
 		// end-user-code
 	}
 
-	/** 
-	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
-	 */
+	
 	private Integer s_calculation;
 
 	/**
