@@ -1,0 +1,129 @@
+/**
+ * 
+ */
+
+/** 
+ * @author STUDENT
+ * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+ */
+public class Salary {
+	/** 
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	private Integer id;
+
+	/**
+	 * @return the id
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public Integer getId() {
+		// begin-user-code
+		return id;
+		// end-user-code
+	}
+
+	/**
+	 * @param theId  the id to set
+	 * @generated  "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public void setId(Integer theId) {
+		// begin-user-code
+		id = theId;
+		// end-user-code
+	}
+
+	/** 
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	private Integer s_calculation;
+
+	/**
+	 * @return the s_calculation
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public Integer getS_calculation() {
+		// begin-user-code
+		return s_calculation;
+		// end-user-code
+	}
+
+	/**
+	 * @param theS_calculation  the s_calculation to set
+	 * @generated  "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public void setS_calculation(Integer theS_calculation) {
+		// begin-user-code
+		s_calculation = theS_calculation;
+		// end-user-code
+	}
+
+	/** 
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	private String s_amount;
+
+	/**
+	 * @return the s_amount
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public String getS_amount() {
+		// begin-user-code
+		return s_amount;
+		// end-user-code
+	}
+
+	/**
+	 * @param theS_amount  the s_amount to set
+	 * @generated  "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public void setS_amount(String theS_amount) {
+		// begin-user-code
+		s_amount = theS_amount;
+		// end-user-code
+	}
+
+	/** 
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	private Employee_Details employee_details;
+
+	/**
+	 * @return the employee_details
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public Employee_Details getEmployee_details() {
+		// begin-user-code
+		return employee_details;
+		// end-user-code
+	}
+
+	/**
+	 * @param theEmployee_details the employee_details to set
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public void setEmployee_details(Employee_Details theEmployee_details) {
+		// begin-user-code
+		employee_details = theEmployee_details;
+		// end-user-code
+	}
+
+	/**
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public void calculate() {
+		// begin-user-code
+		// TODO Auto-generated method stub
+
+		// end-user-code
+	}
+
+	/**
+	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+	 */
+	public void modify() {
+		// begin-user-code
+		// TODO Auto-generated method stub
+
+		// end-user-code
+	}
+}
