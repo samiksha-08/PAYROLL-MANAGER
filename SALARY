@@ -21,7 +21,7 @@ public class Salary {
 		return id;
 		// end-user-code
 	}
-
+	//returns id of the employee
 	
 	public void setId(Integer theId) {
 		// begin-user-code
@@ -110,6 +110,7 @@ public class Salary {
 		// TODO Auto-generated method stub
 
 		// end-user-code
+		//to calculate the salary value
 	}
 
 	/**
